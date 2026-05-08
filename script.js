@@ -223,7 +223,7 @@ editProfileForm?.addEventListener('submit', (e) => {
 });
 
 
-const API_KEY = "AIzaSyA79c6VFIabBiSA7xAT0oeWFdPkyJgBz5s";
+const API_KEY = "$$$$$$$$";
 const API_URL = `https://generativelanguage.googleapis.com/v1beta/models/gemini-2.5-flash:generateContent?key=${API_KEY}`;
 
 let controller;
